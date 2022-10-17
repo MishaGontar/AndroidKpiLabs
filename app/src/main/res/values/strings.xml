@@ -1,4 +1,14 @@
 <resources>
     <string name="app_name">KpiLabs</string>
     <string name="testText">Міша топ</string>
+    <string name="super_program_logo_text">Сама крута програма</string>
+    <string name="enter_text">Введіть текст</string>
+    <string name="red_text">Червоний</string>
+    <string name="blue_text">Синій</string>
+    <string name="green_text">Зелений</string>
+    <string name="orange_text">Оранжевий</string>
+    <string name="violet_text">Фіолетовий</string>
+    <string name="cancel">Cancel</string>
+    <string name="ok">Ok</string>
+    <string name="result">Результат:</string>
 </resources>
